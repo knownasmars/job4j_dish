@@ -5,7 +5,7 @@
 * [Tech Stack](#tech-stack)
 * [Environment](#environment)
 * [Launch](#launch)
-* [Application interaction](#interaction)
+* [Application interaction](#application-interaction)
 * [Contacts](#contacts)
 
 ## Summary
